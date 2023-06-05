@@ -2,7 +2,7 @@
 
 # Unsupervised ML for clustering : Uber pickups in NYC
 
-*This project (among others) has been submitted for my Jedha Data Fullstack program certification*
+*This project is a part of my Jedha Data Fullstack program certification*
 
 ## Project
 
